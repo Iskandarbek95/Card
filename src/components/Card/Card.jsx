@@ -13,6 +13,7 @@ const Card = () => {
 
     const container = css`
         box-shadow: 0px 0px 40px 10px #d1d1e0;
+        border: 1px solid #b3b3cc;
         margin: 150px auto;
         max-width: 700px;
     `;
